@@ -54,6 +54,13 @@ Ce projet a été mené au sein d'ITGStore Consulting pour fournir à CAMPOST, l
 3.  **Audits de Sécurité :** Exécution de scans de vulnérabilités avec **OWASP ZAP** et réalisation de tests d'injection SQL de base avec **SQLmap** pour identifier et aider à corriger les failles de sécurité.
 4.  **Documentation :** Rédaction de la documentation d'utilisation des API pour l'équipe de développement mobile et des rapports de tests pour les chefs de projet.
 
+----
+
+## Auteur
+
+*   **Idriss Cabrel MBIAPO NZEPA**
+*   [Profil LinkedIn](https://www.linkedin.com/in/idriss-cabrel-mbiapo-nzepa-b1222a363)
+*   [Profil GitHub](https://github.com/idriss-mbiapo/)
 
 ---
 
