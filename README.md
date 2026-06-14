@@ -61,11 +61,3 @@ Ce projet a été mené au sein d'ITGStore Consulting pour fournir à CAMPOST, l
 *   **Idriss Cabrel MBIAPO NZEPA**
 *   [Profil LinkedIn](https://www.linkedin.com/in/idriss-cabrel-mbiapo-nzepa-b1222a363)
 *   [Profil GitHub](https://github.com/idriss-mbiapo/)
-
----
-
-## Auteur
-
-*   **Idriss Cabrel MBIAPO NZEPA**
-*   [Profil LinkedIn]
-*   [Profil GitHub]
